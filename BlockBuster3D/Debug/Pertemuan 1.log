@@ -1,0 +1,20 @@
+﻿  Pertemuan 1.cpp
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(13,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(28,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(37,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(38,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(38,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(38,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(55,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(277,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(518,45): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(518,45): warning C4244:         with
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(518,45): warning C4244:         [
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(518,45): warning C4244:             _Ty=double
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(518,45): warning C4244:         ]
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(521,45): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(521,45): warning C4244:         with
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(521,45): warning C4244:         [
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(521,45): warning C4244:             _Ty=double
+C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Pertemuan 1.cpp(521,45): warning C4244:         ]
+  Pertemuan 1.vcxproj -> C:\Users\messi\Documents\Code\Semester 5\Lab Grafika Komputer\Pertemuan 7\Debug\BlockBuster3D.exe
